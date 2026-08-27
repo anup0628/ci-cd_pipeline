@@ -1,0 +1,25 @@
+# Python 
+__pycache__/
+*.py[cod]
+*.pyo 
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking
+.mypy_cache/
+.pyright/
+
+# VS code
+.vscode/
+
+# os files
+.DS_Store
+Thumbs.db
